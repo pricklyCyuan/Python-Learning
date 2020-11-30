@@ -3,3 +3,10 @@ I bought a book "Think like a programer: an introduction to creative problem sol
 
 因為想要好好學習Python 所以買了很多書，其中一本基礎邏輯訓練的書叫做「像程式設計是這樣思考 - 鍛鍊程式設計思維，培養解決問題的創造力」，沒想到這本書裡面的程式碼竟然都是用C++編寫。
 當然閱讀起來，理解程式是沒有太大問題，不過基於想學習好Python的原因，我決定將每一個看到的練習轉換成Python，至於能做到什麼程度，就看我未來的造化了(懶神何時會上門，誰都不清楚)
+
+我使用的IDE 是 Subline Text3 所以也會在這邊記錄一下這款IDE的設定跟使用經驗
+
+Q1: Build (ctrl+B)之後無法進行資料輸入
+A1: 安裝SublimeREPL
+https://www.itread01.com/articles/1475821724.html
+https://www.itread01.com/content/1543111345.html
