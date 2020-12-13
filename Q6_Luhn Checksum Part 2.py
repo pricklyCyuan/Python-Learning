@@ -1,5 +1,5 @@
 # 像程式設計師這樣思考
-# Chapter 2 問題:Luhn Checksum 第一部分 簡單6位數checksum
+# Chapter 2 問題:Luhn Checksum 第二部分 簡單6位數checksum
 
 digit = input('please enter a 6 digit number:')  # 讀取輸入值
 sum = 0
